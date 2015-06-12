@@ -1,0 +1,40 @@
+body {
+  line-height: 1.5;
+  font-family: 'Gochi Hand', cursive;
+  background: url('../images/tina-butts.gif');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+  background: rgba(84,88,114,0.6);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h1 {
+	font-size: 100px;
+	margin-bottom: -40px;
+	color: #B8B0CB;
+}
+
+h2 {
+	font-size: 25px;
+	color: #633E1B;
+}
+
+p {
+	font-size: 13px;
+	color: #F8E941;
+}
+
+a {
+	color: #AA915E;
+	text-decoration: none;
+	font-size: 25px;
+}
