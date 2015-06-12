@@ -2,7 +2,7 @@
 
 > "If you need me, I'll be here on the floor dying."
 
-Tina's personality in essence is a quirky girl transitioning from childhood to adolescence. The child in her still clings to her love for horses, rainbows, and zombies while her inner teenager calls her to fantasize about zombies making out, writing her feelings/activities in her diary, to write erotic fiction whether it be about friends or other people's works, and constantly think about her crush, Jimmy Pesto, Jr., along with anyone else she deems cute like an entire baseball team of twenty-five for example. For more info on [Tina] (http://bobs-burgers.wikia.com/wiki/Tina_Belcher).
+Tina is a wonderfully weird adolescent. She is transitioning from childhood to adulthood. She loves unicorns, rainbows and butts. She documents these interests in her “Erotic Friend Fiction”. She has a crush on Jimmy Pesto Jr., and anyone else whose posterior she finds attractive, including an entire zombie basketball team. Her interest in and passion for butts comes in handy when she helps save her father’s life through butt identification. For more info on [Tina] (http://bobs-burgers.wikia.com/wiki/Tina_Belcher).
 
 > [Tina likes to moan, a LOT.](http://www.mydamnchannel.com/slacktory/slacktory/bobsburgerssupercutalloftinasmoans_9441) [(source)](https://www.youtube.com/watch?v=bK4GgcXIHh8)
 
