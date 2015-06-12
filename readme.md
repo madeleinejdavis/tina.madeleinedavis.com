@@ -1,32 +1,24 @@
-## MAIN TEXT 
+## HEADER: Tina Belcher
 
-Heading: About Sam
-Secondary Heading: You had me at hello world
+## SECOND HEADER: "If you need me, I'll be here on the floor dying."
 
-I'm currently a marketing intern at Warby Parker. At NYU I studied Music Business and English Literature. 
+## PARAGRAGH: Tina's personality in essence is a quirky girl transitioning from childhood to adolescence. The child in her still clings to her love for horses, rainbows, and zombies while her inner teenager calls her to fantasize about zombies making out, writing her feelings/activities in her diary, to write erotic fiction whether it be about friends or other people's works, and constantly think about her crush, Jimmy Pesto, Jr., along with anyone else she deems cute like an entire baseball team of twenty-five for example.
 
-My three favorite smells in the world: coffee, chocolate, the cool side of a pillow. What would I play at a YouTube party? Threw it On The Ground!
+Found at: http://bobs-burgers.wikia.com/wiki/Tina_Belcher
 
-LINK: http://www.youtube.com/watch?v=gAYL5H46QnQ
+## PARAGRAPH: Tina likes to moan, a LOT.
+LINK: http://www.mydamnchannel.com/slacktory/slacktory/bobsburgerssupercutalloftinasmoans_9441
 
-I couldn't afford one of those cool Daft Punk helmets. So I made my own.
-
-
-
-## SOCIAL MEDIA LINKS 
-
-GitHub
-https://github.com/onemonthrails
-
-Twitter 
-https://twitter.com/onemonthrails
-
-Facebook
-https://www.facebook.com/OneMonthRails
+## VIDEO:
+LINK: https://www.youtube.com/watch?v=bK4GgcXIHh8
 
 
 
+## Google Fonts:
+- Gochi Hand
 
-## GOOGLE FONTS: 
--Rokkitt
--Lato
+## How to create new subdomain:
+https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/
+
+## How to add new repository on GitHub:
+https://help.github.com/articles/adding-a-cname-file-to-your-repository/
